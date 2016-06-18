@@ -112,7 +112,9 @@
 			}
 		}
 	});
-
+	if($(window).width() <= 600){
+	  $("#banner").css("font-size",".2em");
+	}
 
   $(window).on("scroll", function() {
      if ($(this).scrollTop() > 700) {

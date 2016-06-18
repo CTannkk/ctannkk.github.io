@@ -514,6 +514,7 @@ html,body
 			.image.fit img {
 				display: block;
 				width: 100%;
+        display: block;
 			}
 
 /* List */
@@ -1077,7 +1078,7 @@ html,body
 
 		#banner .inner {
 			position: relative;
-			font-size: .85em;
+			font-size: .85vw;
 			top: 150px;
 			z-index: 1;
 		}
