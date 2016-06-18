@@ -29,6 +29,10 @@
 		display: none;
 	}
 
+	#heading {
+		display: none;
+	}
+
 /* Banner */
 
 	#banner {
